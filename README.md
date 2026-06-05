@@ -20,7 +20,7 @@ Satisfaction score analysis
 Spending behavior insights
 Key business metrics
 ## 📈 Advanced Analytics Dashboard
-![Total Load](Total Load.png.png)
+![Total Load](Total_Load.png.png)
 ### Provides:
 Spending vs Satisfaction Analysis
 Cluster Comparison Metrics
