@@ -99,6 +99,7 @@ SciPy
 Streamlit
 Model Persistence
 Joblib
+
 📂 Project Structure
 ```bash
 buyer-segmentation-project/
