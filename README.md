@@ -13,21 +13,21 @@ Build an interactive Streamlit dashboard for business intelligence
 Generate actionable insights for real estate decision-making
 ## 📸 Project Screenshots
 ## 📊 Dashboard Overview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 ### Displays:
 Customer distribution across segments
 Satisfaction score analysis
 Spending behavior insights
 Key business metrics
 ## 📈 Advanced Analytics Dashboard
-![Total Load](Total Load.png)
+![Total Load](Total Load.png.png)
 ### Provides:
 Spending vs Satisfaction Analysis
 Cluster Comparison Metrics
 Correlation Analysis
 Customer Behavioral Insights
 ## 👥 Segment Analysis Dashboard
-![Prediction](prediction.png)
+![Prediction](prediction.png.png)
 ### Shows:
 Detailed segment profiles
 Demographic characteristics
